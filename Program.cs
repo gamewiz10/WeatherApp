@@ -19,8 +19,9 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapStaticAssets();
-app.MapRazorPages()
-   .WithStaticAssets();
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Weather}/{action=Index}/{id?}"
+);
 
 app.Run();
