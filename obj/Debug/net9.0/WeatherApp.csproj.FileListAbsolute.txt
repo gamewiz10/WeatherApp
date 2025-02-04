@@ -16,9 +16,8 @@ C:\Users\mysta\WeatherApp\obj\Debug\net9.0\WeatherApp.csproj.CoreCompileInputs.c
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\WeatherApp.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\WeatherApp.RazorAssemblyInfo.cache
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\WeatherApp.RazorAssemblyInfo.cs
-C:\Users\mysta\WeatherApp\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\mysta\WeatherApp\obj\Debug\net9.0\WeatherApp.sourcelink.json
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\scopedcss\bundle\WeatherApp.styles.css
-C:\Users\mysta\WeatherApp\obj\Debug\net9.0\scopedcss\projectbundle\WeatherApp.bundle.scp.css
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\imc1z5lvkv-b9sayid5wm.gz
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\tp1u0yqc2s-61n19gt1b8.gz
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\xchjbzii45-xtxxf3hu2r.gz
@@ -81,8 +80,6 @@ C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\k6fapcd5k7-2z0ns9nrw6.gz
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\xtd82gle0u-muycvpuwrr.gz
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\zsqq6rm6f2-87fc7y1x7t.gz
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\9nst917tdo-mlv21k5csn.gz
-C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\ra8j9hv018-7luu4ywzy2.gz
-C:\Users\mysta\WeatherApp\obj\Debug\net9.0\compressed\5nifsmvwvn-7luu4ywzy2.gz
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\staticwebassets.development.json
 C:\Users\mysta\WeatherApp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
